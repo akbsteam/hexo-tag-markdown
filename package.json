@@ -1,0 +1,9 @@
+{
+  "name": "hexo-tag-markdown",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+	  "fs": "*",
+	  "path": "*"
+  }
+}
