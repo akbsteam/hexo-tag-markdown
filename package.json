@@ -15,7 +15,7 @@
     "hexo"
   ],
   "dependencies": {
-	  "fs": "*",
+	  "graceful-fs": "*",
 	  "path": "*"
   },
   "author": {
