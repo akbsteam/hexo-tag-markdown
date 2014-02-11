@@ -17,7 +17,7 @@
   "dependencies": {
 	  "fs": "*",
 	  "path": "*"
-  }
+  },
   "author": {
     "name": "Andy Bennett",
     "email": "andu@steamshift.net"
