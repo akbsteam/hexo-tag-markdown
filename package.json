@@ -15,8 +15,8 @@
     "hexo"
   ],
   "dependencies": {
-	  "graceful-fs": "*",
-	  "path": "*"
+    "graceful-fs": "~2.0.1",
+    "path": "*"
   },
   "author": {
     "name": "Andy Bennett",
@@ -35,5 +35,9 @@
     "url": "https://github.com/akbsteam/hexo-tag-markdown/issues"
   },
   "_id": "hexo-tag-markdown@0.0.1",
-  "_from": "hexo-tag-markdown@"
+  "_from": "https://github.com/akbsteam/hexo-tag-markdown/archive/1.0.tar.gz",
+  "dist": {
+    "shasum": "0a7326574e37c6cf35e5bb03ac73e16099e7b243"
+  },
+  "_resolved": "https://github.com/akbsteam/hexo-tag-markdown/archive/1.0.tar.gz"
 }
